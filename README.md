@@ -3,9 +3,12 @@ I'm a junior studying computer science 👩🏻‍💻 at Cornell University �
 
 Also I like numbers 📊 so check out some stats I'm working on below! ⬇️
 
-<img src="https://github-readme-stats.vercel.app/api?username=meganyin13&show_icons=true&hide=stars&count_private=true" />
+<div>
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=meganyin13&show_icons=true&hide=stars&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganyin13&layout=compact&hide=Jupyter%20Notebook" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganyin13&layout=compact&hide=Jupyter%20Notebook" />
+</div>&nbsp;
+
 
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
