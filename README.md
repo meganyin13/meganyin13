@@ -7,6 +7,7 @@ Also I like numbers 📊 so check out some stats I'm working on below! ⬇️
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganyin13&layout=compact&hide=Jupyter%20Notebook" />
 
+### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
 TypeScript   4 hrs 32 mins   ████████████████████░░░░░   82.37 % 
