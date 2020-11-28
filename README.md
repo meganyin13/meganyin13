@@ -10,7 +10,6 @@ Also I like numbers 📊 so check out some stats I'm working on below! ⬇️
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-JSON         24 mins         ███████████████████████▒░   92.83 % 
-TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JSON    22 mins         ████████████████████████▓   99.23 % 
 ```
 <!--END_SECTION:waka-->
