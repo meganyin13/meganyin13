@@ -10,6 +10,9 @@ Also I like numbers 📊 so check out some stats I'm working on below! ⬇️
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   19 mins         ████████████████▒░░░░░░░░   64.79 % 
+JavaScript   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.05 % 
+YAML         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 <!--END_SECTION:waka-->
